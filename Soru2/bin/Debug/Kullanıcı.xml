@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Kullanıcı xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ad>Enes</Ad>
+  <Soyad>Oruç</Soyad>
+  <DogumTarihi>2019-03-31T13:44:04.9628429+03:00</DogumTarihi>
+  <Email>enesoruc1995@gmail.com</Email>
+  <Sifre xsi:type="xsd:string">pcdustyasdf123</Sifre>
+</Kullanıcı>
